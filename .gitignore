@@ -117,3 +117,4 @@ nbdist/
 
 # End of https://www.gitignore.io/api/java,test,netbeans
 /atividade06/nbproject/
+/atividade06/target/
